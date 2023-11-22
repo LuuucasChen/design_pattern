@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("请输入数字");
+        System.out.println("请输入数字A");
         double numA = Double.parseDouble(sc.nextLine());
         System.out.println("请选择运算发");
         String oper = sc.nextLine();
